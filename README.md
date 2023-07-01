@@ -26,7 +26,7 @@ GitHub Username: Example
 
 ## Profile Information for Example
 
-- Name: John Doe
+- Name: Example
 - Profile Picture: ![Profile Picture](https://github.com/Example.png)
 - Bio: Software Engineer | Open Source Enthusiast
 - Followers: 100
